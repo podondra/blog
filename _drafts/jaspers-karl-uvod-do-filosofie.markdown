@@ -42,4 +42,4 @@ Jaspers nahliží lidskou situaci jako *nespolehlivost lidského bytí*. Člově
 
 # Objímající
 
-V této třetí přednášce se Jaspers zabývá otázkou: *Co je to, co jest?* (s. 22) Materialismus (vše je hmota), spiritualismus (všechno je duch), hylozoismus (vesmír je materie oživená duchem) jsou podle něho chybnými, protože *chápou bytí jako něco, co vůči mně stojí jako předmět*. Říká, že bytí je *objímající*, z něhož se vynořuje objekt (předmět) i subjekt (Já).
+V této třetí přednášce se Jaspers zabývá otázkou: *Co je to, co jest?* (s. 22) Materialismus (vše je hmota), spiritualismus (všechno je duch), hylozoismus (vesmír je materie oživená duchem) jsou podle něho chybnými, protože *chápou bytí jako něco, co vůči mně stojí jako předmět*. Říká, že bytí je *objímající* (*das Umgreifende*), z něhož se vynořuje objekt (předmět) i subjekt (Já).
