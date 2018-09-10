@@ -7,19 +7,19 @@ categories: konspekt
 
 *Pozdě večer hovoří domnělý žebrák s nedůvěřivou Pénelopou a ujišťuje ji, že se Odysseus brzy vrátí. Když mu pak stará Eurykleia myla nohy, poznala ho podle jizvy, ale Odysseus jí přísně přikázal aby mlčela.*
 
-Odysseus s bohyní Athénou připravuje smrt Pénelopiných ženichů. S Télemachem odnesli z jakési síně zbraně. (v. 1—54)
+Odysseus s pomocí bohyně Athény připravuje smrt Pénelopiných ženichů, a proto Télemachem odnesli z jakési síně zbraně. (v. 1—54)
 
 Melanthó Odysseovi spílá (v. 67—70), ale to se nelíbí Pénelopé: *to odpykáš vlastní svou hlavou!* (v. 93), která se pro Odyssea rmoutí. (v. 96)
 
-Poté Pénelopé vypráví domnělému cizinci, jak se snažila oddálit sňatek do kterého byla nucena. Ve dne tkala rubáš (prosté splývavé roucho pro zemřelé) a v noci ho párala. (v. 125—164) *Teď však nemohu již se uchránit sňatku (...)* (v. 158)
+Poté Pénelopé vypráví domnělému cizinci, jak se snažila oddálit sňatek, do kterého byla nucena. Ve dne tkala rubáš (prosté splývavé roucho pro zemřelé) a v noci ho párala. (v. 125—164) *Teď však nemohu již se uchránit sňatku (...)* (v. 158)
 
 Cizinec tvrdí, že Odyssea potkal, a tak ho Pénelopé zkouší. (v. 215—261) Neúspěšně se snaží Pénelopé přesvědčit, že se jí manžel vrátí. (v. 263—314)
 
 Následuje ona scéna, kdy Eurykleia pozná Odyssea podle jizvy, a vsuvka o jejím původu. Bílým klem ho poranil kanec, když byl se svými strýci na lovu. (v. 394—467) Než Odysseus stařenu umlčí, pozornost Pénelopé odvede Athéna (v. 480), Odysseus se chce totiž pobít ženichy i nevěrné služebné (v. 491).
 
-Když se Odysseus vrátí zpět k Pénelopé, vypoví mu sen o dvaceti husách jež v jejich domě zabije orel. (v. 537—554) Je to zvláštní, že má Pénelopé takovou předzvěst. V textu je zmínka o dvou druzích snů: klamavé ze slonoviny a pravdivé od bohů. (v. 563—568)
+Když se Odysseus vrátí zpět k Pénelopé, vypoví mu sen o dvaceti husách, které v jejich domě zabije orel. (v. 537—554) Je to zvláštní, že má Pénelopé takovou předzvěst. V textu je zmínka o dvou druzích snů: klamavé ze slonoviny a pravdivé od bohů. (v. 563—568)
 
-Na konci zpěvu oznámí Pénelopé cizinci, že hodlá předložit závod o prostřelení dvanácti seker v řadě Odysseovým lukem. Kdo prostřelí s tím opustí dům a přenechá ho Télemachovi. (v. 573—582)
+Na konci zpěvu oznámí Pénelopé cizinci, že hodlá předložit závod o prostřelení dvanácti seker v řadě Odysseovým lukem. Kdo prostřelí, s tím opustí dům a přenechá ho Télemachovi. (v. 573—582)
 
 # Postavy
 
