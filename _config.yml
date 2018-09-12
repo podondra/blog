@@ -48,4 +48,4 @@ minima:
   date_format: "%e. %-m. %Y"
  
 disqus:
-  shortname: podondra
+  shortname: konspekty
