@@ -15,7 +15,7 @@ vznikem vzdělanosti v humanitních vědách.
 
 Vorošilův seznam.
 
-# Tipy
+## Tipy
 
 - Dostojevskij: Bratři Karamazovi,
 - Dostojevskij: Běsi,

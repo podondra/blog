@@ -26,15 +26,13 @@ a pouští nejsou archologicky doloženy.
 
 Jádro bible je *Tóra* neboli *Pět knih Mojžíšových*.
 
-# Reflexe
+## Reflexe
 
 Co to je relfexe? Výsada lidí mít svůj život dvakrát.
 Základní terén filosofie. Co jsem slyšel na přednášce. Jak
 jsem tomu rozumněl. Co přednášející říkal, co je důležité,
 jaký to dává smysl, co si o tom myslím a proč si to myslím.
 60—80 řádků.
-
-# Konspekt
 
 ## Genesis
 

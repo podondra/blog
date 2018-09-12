@@ -5,15 +5,15 @@ categories: konspekt
 ---
 Dvanáct rozhlasových přednášek uskutečněných na žádost Studia Basel v roce 1950.
 
-# Resumé
+## Resumé
 
 Někdy je jednodušší po přečtení a zkonspektování textu ještě předřadit jakési **resumé**: o čem kniha jedná, co významného a pro vás nového tvrdí atd. Třeba jen v heslech.
 
-# Bibliografické údaje
+## Bibliografické údaje
 
 Vydalo nakladatelství OIKOYMENH. Z německého originálu *Einführung in die Philosophie*, vyd. R. Piper Verlag 1991 (29. vydání), přeložil Aleš Havlíček. První vydání, Praha 1996. ISBN 80-86005-05-4.
 
-# Co je filosofie?
+## Co je filosofie?
 
 Ve filosofii neexistuje jednomyslnost definitivně poznaného. Oproti vědě filosofie nepředkládá žádné obecně platné výsledky a nemá charakter vzestupného procesu. *(...) sotva můžeme říci, že jsme dále než Platón.* Ve filosofii jde o celek bytí člověka, o pravdu, která uchopuje člověka mnohem podstatněji než vědecké poznání. (s. 9)
 
@@ -28,7 +28,7 @@ Tato *filosofie bez vědy* vykazuje pozoruhodné jevy:
 
 Přes rozmanitost filosofování je jakási *philosophia perennis*, věčná jedna filosofie, která vše spojuje. (s. 14)
 
-# Původ filosofie
+## Původ filosofie
 
 Podle Jasperse jsou tři původy, z nichž přichází podnět k filosofování. (s. 15)
 
@@ -40,6 +40,6 @@ Jsme vždy v *situacích*. Jsou situace, které můžeme měnit a *mezní situac
 
 Jaspers nahliží lidskou situaci jako *nespolehlivost lidského bytí*. Člověk je ohrožení nespolehlivostí přírody, nekonečným bojem všech proti všem. (s. 17) Proti tomu se brání spoutáváním přírody, vytvářením státu, tradicí, ale plná ochrana je iluzí. (s. 18) 
 
-# Objímající
+## Objímající
 
 V této třetí přednášce se Jaspers zabývá otázkou: *Co je to, co jest?* (s. 22) Materialismus (vše je hmota), spiritualismus (všechno je duch), hylozoismus (vesmír je materie oživená duchem) jsou podle něho chybnými, protože *chápou bytí jako něco, co vůči mně stojí jako předmět*. Říká, že bytí je *objímající* (*das Umgreifende*), z něhož se vynořuje objekt (předmět) i subjekt (Já).
