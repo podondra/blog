@@ -49,3 +49,5 @@ minima:
  
 disqus:
   shortname: konspekty
+
+google_analytics: UA-89944397-2
