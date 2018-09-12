@@ -46,3 +46,6 @@ plugins:
 # customize this
 minima:
   date_format: "%e. %-m. %Y"
+ 
+disqus:
+  shortname: podondra
