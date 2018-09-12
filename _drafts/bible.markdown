@@ -40,10 +40,11 @@ jaký to dává smysl, co si o tom myslím a proč si to myslím.
 
 Genesis (hebrejsky *Berešit*, též *První kniha Mojžíšova*)
 je první knihou bible. Při jejím čtení a interpretaci jsem
-se inspiroval [přednáškou profesora Jana Sokola][genesis]
+se inspiroval
+[přednáškou profesora Jana Sokola a Zdeňka Pince][genesis]
 v rámci Předletní školy FHS UK.
 
-[genesis]: https://www.youtube.com/watch?v=trSW16Fe7r8
+[genesis]: https://www.youtube.com/watch?v=trSW16Fe7r8&list=PLbNGOQlEln48NuLT69WE3TrbF_nrch2NP
 
 ### Genesis 1—3
 
@@ -127,4 +128,72 @@ vysvětluje, proč zakázaný strom v zahradě je. Proč by ho tam
 Hospodin Bůh jinak sázel?
 
 Rozdílů oproti prvnímu textu je několik. Zaprvé Bůh netvoří
-slovem, konec je špatný, na začátku je poušť a ne moře,
+slovem, konec je špatný, na začátku je poušť a ne moře atd.
+
+### Genesis 4
+
+Čtvrtá kapitola Genesis vypráví o synech Adama a Evy Kainovi
+a Ábelovi. Kain je starší syn a je zemědelec. Ábel je
+pastýř. Kain zabije Ábela, protože hospodin neshlédl na jeho
+obět, ale pouze na tu Ábelovu. Za to z něj Hospodin udělá
+bezdomovce a tuláka. Kain řiká: *ko mě najde, mne bude moci
+zabít* (Gn 4,14), ale Hospodin vloží na Kina znamení, aby ho
+nikdo nezabil. (Gn 4,1—16)
+
+Zajímalo by mě, jestli ho Hospodin chrání před zabitím,
+protože chce, aby trpěl touláním nebo protože je dobrý.
+Tento text jasně říká, že zabití je hřích.
+
+Následuje seznam Kainových potomků: Henoch, Írad, Mechújáel,
+Metúšael, Lámech. (Gn 4,17—24) Poté se vypráví o dalším synu
+Adama a Evy Šétovi, který měl syna Enóše a potom následuje
+poslední verš kapitoly: *Tehdy začalo vzývání Hospodinova
+jména* (Gn 4,26).
+
+### Genesis 5
+
+Tato kapitola je záznam Adamova rodopisu. Uvádím seznam
+zřejmě prvorozených synů: Adam, Šét, Enóš, Kénan, Mahalalel,
+Jered, Henoch, Metúšelach, Lámech, Noe. Vždy se řekne jméno
+syna, jak dloho žil a že zplodil syny a dcery.
+
+Noe znamená *odpočinutí*. Toto jméno mu dal Lámech se slovy:
+*Ten nám dá odpočinutí od našeho díla o od námahy našich
+rukou, od země, kterou Hospodin proklel.* (Gn 5,29)
+
+Tenhle citát mi možná objasňuje verše z předchozí kapitoly,
+když Lámech mluví ke svým dvěma ženám: *Neboť jsem zabil
+muže za svou modřinu, chlapce za svůj šrám. Jestliže Kain
+bude pomstěn sedminásobně, Lámech sedmdesátisedminásobně.*
+(Gn 4,23—24) Potomci Kainovi si sebou nesou jeho hřích, od
+kterého jim má pomoct Noe, ale to seznami do sebe
+nezapadají.
+
+Noe zplodil sny Šém, Chám, Jefet.
+
+### Genensis 6—8
+
+V tomto okamžiku se Hospodin rozhodne vyhladit člověka
+potopou, protože *(...) všechno změření úmyslů jejich srdce
+je napořád jonm zlé, (...)*. (Gn 6,5) Jediný Noe a jeho
+rodina nalezla milost, protože Noe je spravedlivý, bezúhonný
+a *Noe chodil s Bohem* (Gn 6,9).
+
+Na konci šesté kapitoly vysvětluje Hospodin Noemu, jak
+postavit archu, kterou Noe opravdu postavil a vzal s sebou
+i zvířata a plodiny.
+
+Sedmá kapitola popisuje potopu, která vyhladila všechno
+tvorstvo na zemi. Déšť trval 40 dnů a potopa 150 dnů.
+Přežil pouze Noe s rodinou a zvířaty v arše.
+
+Zde je zřejmé poseltví, že pokud se člověk bude chovat zle,
+Hospodin se nebude zdráhat ho vyhladit a pouze spravedlivý
+přežijí.
+
+### Poznámky
+
+Podle Pince ženy a muži nemají stejné postavní před Bohem.
+Muži musí doslova poslechnout jako Abrahám, když má obětovat
+Izáka, nebo Lot, ale Lotovi dcery ho můžou opít a zachránit
+lidstvo a Bůh jim požehná.
