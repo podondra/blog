@@ -21,8 +21,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/konspekty" # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://podondra.cz"
+github_username: podondra
 instagram_username: podondra
-facebook_username: podondra
+linkedin_username: podondra
 
 # Build settings
 markdown: kramdown
