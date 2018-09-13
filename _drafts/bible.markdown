@@ -128,7 +128,7 @@ Hospodin Bůh jinak sázel?
 Rozdílů oproti prvnímu textu je několik. Zaprvé Bůh netvoří
 slovem, konec je špatný, na začátku je poušť a ne moře atd.
 
-### Genesis 4
+### Genesis 4—5
 
 Čtvrtá kapitola Genesis vypráví o synech Adama a Evy Kainovi
 a Ábelovi. Kain je starší syn a je zemědelec. Ábel je
@@ -148,9 +148,7 @@ Adama a Evy Šétovi, který měl syna Enóše a potom následuje
 poslední verš kapitoly: *Tehdy začalo vzývání Hospodinova
 jména* (Gn 4,26).
 
-### Genesis 5
-
-Tato kapitola je záznam Adamova rodopisu. Uvádím seznam
+Pátá kapitola je záznam Adamova rodopisu. Uvádím seznam
 zřejmě prvorozených synů: Adam, Šét, Enóš, Kénan, Mahalalel,
 Jered, Henoch, Metúšelach, Lámech, Noe. Vždy se řekne jméno
 syna, jak dloho žil a že zplodil syny a dcery.
@@ -167,13 +165,13 @@ bude pomstěn sedminásobně, Lámech sedmdesátisedminásobně.*
 kterého jim má pomoct Noe, ale to seznami do sebe
 nezapadají.
 
-Noe zplodil sny Šém, Chám, Jefet.
+Noe zplodil syny Šém, Chám, Jefet.
 
-### Genensis 6—8
+### Genensis 6—10
 
 V tomto okamžiku se Hospodin rozhodne vyhladit člověka
-potopou, protože *(...) všechno změření úmyslů jejich srdce
-je napořád jonm zlé, (...)*. (Gn 6,5) Jediný Noe a jeho
+potopou, protože *(...) všechno zaměření úmyslů jejich srdce
+je napořád jenom zlé, (...)*. (Gn 6,5) Jediný Noe a jeho
 rodina nalezla milost, protože Noe je spravedlivý, bezúhonný
 a *Noe chodil s Bohem* (Gn 6,9).
 
@@ -185,9 +183,66 @@ Sedmá kapitola popisuje potopu, která vyhladila všechno
 tvorstvo na zemi. Déšť trval 40 dnů a potopa 150 dnů.
 Přežil pouze Noe s rodinou a zvířaty v arše.
 
+V osmé kapitole potopa ustupuje. Tady Noe vypouští havrana
+a holubici, aby viděl, zda voda už ustoupila. Jednoho dne
+přinesla holubice olivový list. Když vystoupili, Noe
+postavil Hospodinu oltář a obětoval mu zápalnou oběť. Na to
+reaguje Hospodin: *Již nikdy neprokleji zemi kvůli člověku,
+prož zaměření lidského srdce je od jeho mládí zlé, a už
+nikdy nopobiji všechno živé tak, jak jsem učinil.* (Gn 8,21)
+
 Zde je zřejmé poseltví, že pokud se člověk bude chovat zle,
 Hospodin se nebude zdráhat ho vyhladit a pouze spravedlivý
-přežijí.
+přežijí. Akorát nechápu, proč Hospodin řekne, že už to nikdy
+neudělá. Člověk tedy nemusí být dobrý ze strachu před
+Hospodinem. Přesto Hospodin doufá, že bude.
+
+Na začátku deváté kapitoly je přestvoření světa. Už vlastně
+potřetí. Bůh požehná Noeho a jeho syny. Dá jim do rukou vše
+řiví, ale říká: *Jen maso s jeho životem, s jeho krví,
+nejezde.* (Gn 9,4) A výslovně zakáže zabít člověka. Nakonec
+znovu podotkne, že člověk je obrazem Božím. 
+
+Poté uzavře s každou živou duší smlouvu, že už je nikdy
+nevyhladí a na znamení dá *duhu*. (Gn 9,8—17)
+
+Devátou kapitolu uzavírá příhoda opilého Noeho, který je
+ve svém stanu nahý. Chám, otec Kenaana, ho viděl, řekl
+to svým bratrů a ti ho zahalili pláštěm. Když se Noe probral
+proklel Kenaana (ano Kenaane ne Cháma), aby otrokem svým
+bratrům.
+
+Zvláštní epizoda, která ukazuje dobrého Noeho ve špatném
+světle, když je opilý.
+
+Desátá kapitola se zabývá potomky Noeho a vznikem národů.
+Poslední verš kapitoly zní: *Z těch se po potopě rozpýlily
+národy po zemi.* Čtu [Český studijní překlad][csp] a v něm
+je vždy napsáno jméno potomka a v poznámce jakého národa je
+předchůdcem.
+
+[csp]: https://www.bible.com/cs/bible/509/GEN.10.CSP
+
+V této kapitole je napsáno, že měli lidé různé jazyk (Gn
+10,31), ale teprve následující kapitola je o zmatení
+jazyků. Překlad v poznámce vysvětluje že v Genesis je
+běžné podat vysvětlení až poté, co se o ní vypráví.
+
+### Genesis 11
+
+Všichni mluvili jednou řečí a aby si udělali jméno
+a neroptýlili se rozhodli se postavit vež, *jejíž vrchol
+bude v nebi, (...)* (Gn 11,4). Když to Hospodin zpozoroval,
+uvědomil si, že by pro lidi bylo všechno možné, a tak
+sestoupil a zmátl jim řeč, což lidi mimo jiné rozptýlilo
+po celé zemi.
+
+Plyne z tohoto příběhu, že Bůh je na nebi?
+
+Kapitolu zakončuje rodopis Šémův. Důležité je, že jeho
+potomek Terach zplodil Abrama, který měl neplodnou ženu
+Sáraj (v překladu *Má kněžna*). Terach měl také syna Hárana,
+který zplodil Lota.
 
 ### Poznámky
 
