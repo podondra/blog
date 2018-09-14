@@ -244,6 +244,68 @@ potomek Terach zplodil Abrama, který měl neplodnou ženu
 Sáraj (v překladu *Má kněžna*). Terach měl také syna Hárana,
 který zplodil Lota.
 
+### Genesis 12
+
+Na začátku řekne Hospodin Abramovi, aby se svými lidmi
+a odešel do země, kterou mu ukáže. Za to ho učíní velký
+národem a požehná jemu a jeho potomstvu. Následuje první
+Abramova poslušnost. Abram vezme svou ženu, syna svého
+bratra Lota a lidi, co jsou ochotni se připojit a vyrazí.
+Když došli do Šekemu (asi 60 kilometrů severně od
+Jeruzaléma), řekl mu Hospodin: *Tuto zemi dám tvému semeni.*
+(Gn 12,7) Ale Abram jde ještě dál k pohoří východně
+od Bételu a pak ještě táhl k Negebu.
+
+Proč šel ještě dál? Bylo to v rámci té země, co mu Hospodin
+dal?
+
+V druhé části kapitoly v jeho zemi nastal hlad, a tak Abram
+sestoupil do Egypta. Své velice krásné ženě řekl,
+aby říkala, že je jeho sestra, aby ho faraon nezabil.
+Opravdu faraon příjme Sáriji do paláce a Abrama za to dá
+skot, osly, služky atd. Ale Hospodin zasáhne faraonův dům
+za Sáriji a ten Abraham pošle pryč ze Egypta.
+
+Abram si neklade žádné pochybné otázky. Například se vůbec
+neptá proč byl hladomor.
+
+### Genesis 13
+
+Abram s Lotem odejdou z Egypta a protože jim nestačí
+pastviny, tak se rozdělí. Lot jde na východ k Sodomě (zmínka
+o tom že Sodomští byli před Hospodinem velice zlí a hříšní)
+ a Abram na západ. Abramovi znovu Hospodin řekne, že mu tuto
+zemi dává na věky a aby ji křížem krážem prošel. Tak ji
+Abram prochází. Také mu slíbí, že jeho potomstva učiní *jako
+prachu země* (Gn 13,16)
+
+### Genesis 14
+
+Popisuje se konflikt mezi králi té oblasti, který vede
+k zajmutí Lota bydlícího v Sodomě. (Gn 14,1—12) Když se to
+*Hebrejec* Abram (poprvé je někdo takto nazvám) dozvěděl
+svolal muže a Lota s jeho majetkem a lidem vysvobodil.
+
+Setkáváme se s Malkísedekem (král spravedlnosti) knšzem Boha
+Nejvyššího. Dále Sodomský král, kterého lid s Lotem
+zachránil, po něm chce jenom lid a majetek, jež s ním získal
+si má Abram nechat. On ale odmítne, protože nechce mít žádné
+závazky.
+
+### Genesis 15
+
+Patnáctá kapitola je o uzavření dalsí smlouvy s Abramem.
+Abram má vidění, ve kterém mu hospodin říká, aby se nebá, že
+je jeho štít (Gn 15,1) Na to si mu Abram postěžuje, že mu
+nedal syna. Hospodin mu poví, aby se nebál, že bude mít
+potomků jako hvězd na nebi.
+
+Dále Hospodin Abramovi poví, že jeho *potomstvo bude
+cizincem v zemi, která nebude jejich, a budou tam otročit
+a budou pokořování čtyři sta let.* (Gn 15,13) Tou zemí se
+zřejmě míní Egypt. Avšak Hospodin Egypťany bude soudit
+a Abramovi potomci vyjdou s velkým majetkem.
+
 ### Poznámky
 
 Podle Pince ženy a muži nemají stejné postavní před Bohem.
