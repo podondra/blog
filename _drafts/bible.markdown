@@ -22,15 +22,15 @@ nějaké místo, ale je jím posvátný text.
 
 Některé příběhy bible můžeme potvrdit z jiných zdrojů,
 například v egyptské histografii, ale třeba putování Egyptem
-a pouští nejsou archologicky doloženy.
+a pouští nejsou archeologicky doloženy.
 
 Jádro bible je *Tóra* neboli *Pět knih Mojžíšových*.
 
 ## Reflexe
 
-Co to je relfexe? Výsada lidí mít svůj život dvakrát.
+Co to je reflexe? Výsada lidí mít svůj život dvakrát.
 Základní terén filosofie. Co jsem slyšel na přednášce. Jak
-jsem tomu rozumněl. Co přednášející říkal, co je důležité,
+jsem tomu rozuměl. Co přednášející říkal, co je důležité,
 jaký to dává smysl, co si o tom myslím a proč si to myslím.
 60—80 řádků.
 
@@ -50,8 +50,8 @@ Na začátku Genesis je jakási *kosmogonie* (nauka o vzniku
 a vývoji vesmíru) v sedmi dnech:
 
 1. Stvoření nebe a země, světla a oddělení tmy. (Gn 1,1—5)
-2. Oddělění nebe a vod. (Gn 1,6—8)
-3. Nahromadění vod, a tím ukázání souše. Vytvoření roslin
+2. Oddělení nebe a vod. (Gn 1,6—8)
+3. Nahromadění vod, a tím ukázání souše. Vytvoření rostlin
    a stromů. (Gn 1,9—13)
 4. Bůh učinil velké světlo, aby vládlo ve dne a malé světlo,
    aby vládlo v noci. (Gn 1,14—19)
@@ -69,20 +69,20 @@ Profesora Sokol poukázal že hebrejštině chybějí
 abstraktní slova, a proto se v bibli říká: *Na počátku
 stvořil Bůh nebe a zemi.* Dále vysvětluje, že světlo je
 důležité, protože bez něho není vidět a to co není vidět
-vlastně není, proto je světlo stvořeno už první dne. Říka:
+vlastně není, proto je světlo stvořeno už první dne. Říká:
 *Patočka si všiml toho, že slovo svět a světlo mají stejný
 kořen.* Zajímavé je, že nejdříve je všude moře a souš se
-z něho vidělí. To je charakterictické pro mytologie
+z něho vidělí. To je charakteristické pro mytologie
 přímořských národů.
 
-Mě překvapilo, že nebeské tělasa příjdou na řadu až pátý
+Mě překvapilo, že nebeské tělesa přijdou na řadu až pátý
 den, zřejmě tedy slunce není původcem světla, ani pro ně
 není významnou věcí, jako pro ostatní mytologie, kde slunce
 je často bůh. Zde má funkci oddělovat den a noc.
 
 Muž a žena jsou stvořeni najednou a mají vládnout nad
 ostatním. Má být *obrazem podle naší podoby* říká Bůh
-(Gn 1,26). Je zvláťní, že to říká v množném čísle. Jinde
+(Gn 1,26). Je zvlášťní, že to říká v množném čísle. Jinde
 tvoří v čísle jednotném: *Hle, dal jsem vám (...)*
 (Gn 1,29). Dále člověk nemůže být obrazem Božím vizuálně,
 protože Bůh je duch. Obecně v židovství nemá Bůh pobodu.
@@ -90,7 +90,7 @@ Podle Sokola se jedná o podobnost v tvůrčích schopnostech.
 
 Následuje zřetelný nadpis nebo závěr předchozího textu:
 *Toto je rodopis nebe a země, jak byly stvořeny.* (Gn 2,4)
-Text pod tímto veršem vypráví táké o stvoření ale jinak.
+Text pod tímto veršem vypráví také o stvoření ale jinak.
 Podle sokola je první část zhruba z 6. st. př. n. l.
 Druhá je patrně starší a přebírá z mýtů blízkého východu.
 
@@ -110,7 +110,7 @@ nic o jablku) ze stromu poznání. Dá ochutnat i muži. Oběma
 se otevřou oči a zjistí že jsou nazí. Zřejmě je být nahý
 špatně v této kultuře. Když se pak Hospodin Bůh *prochází*
 po zahradě (Gn 3,8), zjistí, že pojedli zakázané ovoce.
-Za trest jsou vyhnání z ráje, aby nemohli pojíst ze stomu
+Za trest jsou vyhnání z ráje, aby nemohli pojíst ze stromu
 života a žít navěky (Gn 3,22). Zvláštní je, že Hospodin Bůh
 přirovnává člověka k sobě: *Teď je člověk jako jeden z nás,
 zná dobré i zlé.* (Gn 3,22)
@@ -131,10 +131,10 @@ slovem, konec je špatný, na začátku je poušť a ne moře atd.
 ### Genesis 4—5
 
 Čtvrtá kapitola Genesis vypráví o synech Adama a Evy Kainovi
-a Ábelovi. Kain je starší syn a je zemědelec. Ábel je
+a Ábelovi. Kain je starší syn a je zemědělec. Ábel je
 pastýř. Kain zabije Ábela, protože hospodin neshlédl na jeho
-obět, ale pouze na tu Ábelovu. Za to z něj Hospodin udělá
-bezdomovce a tuláka. Kain řiká: *ko mě najde, mne bude moci
+oběť, ale pouze na tu Ábelovu. Za to z něj Hospodin udělá
+bezdomovce a tuláka. Kain říká: *kdo mě najde, mne bude moci
 zabít* (Gn 4,14), ale Hospodin vloží na Kina znamení, aby ho
 nikdo nezabil. (Gn 4,1—16)
 
@@ -151,7 +151,7 @@ jména* (Gn 4,26).
 Pátá kapitola je záznam Adamova rodopisu. Uvádím seznam
 zřejmě prvorozených synů: Adam, Šét, Enóš, Kénan, Mahalalel,
 Jered, Henoch, Metúšelach, Lámech, Noe. Vždy se řekne jméno
-syna, jak dloho žil a že zplodil syny a dcery.
+syna, jak dlouho žil a že zplodil syny a dcery.
 
 Noe znamená *odpočinutí*. Toto jméno mu dal Lámech se slovy:
 *Ten nám dá odpočinutí od našeho díla o od námahy našich
@@ -188,18 +188,18 @@ a holubici, aby viděl, zda voda už ustoupila. Jednoho dne
 přinesla holubice olivový list. Když vystoupili, Noe
 postavil Hospodinu oltář a obětoval mu zápalnou oběť. Na to
 reaguje Hospodin: *Již nikdy neprokleji zemi kvůli člověku,
-prož zaměření lidského srdce je od jeho mládí zlé, a už
+protože zaměření lidského srdce je od jeho mládí zlé, a už
 nikdy nopobiji všechno živé tak, jak jsem učinil.* (Gn 8,21)
 
-Zde je zřejmé poseltví, že pokud se člověk bude chovat zle,
+Zde je zřejmé poselství, že pokud se člověk bude chovat zle,
 Hospodin se nebude zdráhat ho vyhladit a pouze spravedlivý
 přežijí. Akorát nechápu, proč Hospodin řekne, že už to nikdy
 neudělá. Člověk tedy nemusí být dobrý ze strachu před
 Hospodinem. Přesto Hospodin doufá, že bude.
 
-Na začátku deváté kapitoly je přestvoření světa. Už vlastně
+Na začátku deváté kapitoly je přetvoření světa. Už vlastně
 potřetí. Bůh požehná Noeho a jeho syny. Dá jim do rukou vše
-řiví, ale říká: *Jen maso s jeho životem, s jeho krví,
+živé, ale říká: *Jen maso s jeho životem, s jeho krví,
 nejezde.* (Gn 9,4) A výslovně zakáže zabít člověka. Nakonec
 znovu podotkne, že člověk je obrazem Božím. 
 
@@ -216,7 +216,7 @@ Zvláštní epizoda, která ukazuje dobrého Noeho ve špatném
 světle, když je opilý.
 
 Desátá kapitola se zabývá potomky Noeho a vznikem národů.
-Poslední verš kapitoly zní: *Z těch se po potopě rozpýlily
+Poslední verš kapitoly zní: *Z těch se po potopě rozptýlily
 národy po zemi.* Čtu [Český studijní překlad][csp] a v něm
 je vždy napsáno jméno potomka a v poznámce jakého národa je
 předchůdcem.
@@ -231,7 +231,7 @@ běžné podat vysvětlení až poté, co se o ní vypráví.
 ### Genesis 11
 
 Všichni mluvili jednou řečí a aby si udělali jméno
-a neroptýlili se rozhodli se postavit vež, *jejíž vrchol
+a neroptýlili se rozhodli se postavit věž, *jejíž vrchol
 bude v nebi, (...)* (Gn 11,4). Když to Hospodin zpozoroval,
 uvědomil si, že by pro lidi bylo všechno možné, a tak
 sestoupil a zmátl jim řeč, což lidi mimo jiné rozptýlilo
@@ -247,7 +247,7 @@ který zplodil Lota.
 ### Genesis 12
 
 Na začátku řekne Hospodin Abramovi, aby se svými lidmi
-a odešel do země, kterou mu ukáže. Za to ho učíní velký
+a odešel do země, kterou mu ukáže. Za to ho učiní velký
 národem a požehná jemu a jeho potomstvu. Následuje první
 Abramova poslušnost. Abram vezme svou ženu, syna svého
 bratra Lota a lidi, co jsou ochotni se připojit a vyrazí.
@@ -262,7 +262,7 @@ dal?
 V druhé části kapitoly v jeho zemi nastal hlad, a tak Abram
 sestoupil do Egypta. Své velice krásné ženě řekl,
 aby říkala, že je jeho sestra, aby ho faraon nezabil.
-Opravdu faraon příjme Sáriji do paláce a Abrama za to dá
+Opravdu faraon přijme Sáriji do paláce a Abrama za to dá
 skot, osly, služky atd. Ale Hospodin zasáhne faraonův dům
 za Sáriji a ten Abraham pošle pryč ze Egypta.
 
@@ -283,7 +283,7 @@ prachu země* (Gn 13,16)
 
 Popisuje se konflikt mezi králi té oblasti, který vede
 k zajmutí Lota bydlícího v Sodomě. (Gn 14,1—12) Když se to
-*Hebrejec* Abram (poprvé je někdo takto nazvám) dozvěděl
+*Hebrejec* Abram (poprvé je někdo takto nazván) dozvěděl
 svolal muže a Lota s jeho majetkem a lidem vysvobodil.
 
 Setkáváme se s Malkísedekem (král spravedlnosti) knšzem Boha
@@ -294,9 +294,9 @@ závazky.
 
 ### Genesis 15
 
-Patnáctá kapitola je o uzavření dalsí smlouvy s Abramem.
-Abram má vidění, ve kterém mu hospodin říká, aby se nebá, že
-je jeho štít (Gn 15,1) Na to si mu Abram postěžuje, že mu
+Patnáctá kapitola je o uzavření další smlouvy s Abramem.
+Abram má vidění, ve kterém mu hospodin říká, aby se nebál,
+že je jeho štít (Gn 15,1) Na to si mu Abram postěžuje, že mu
 nedal syna. Hospodin mu poví, aby se nebál, že bude mít
 potomků jako hvězd na nebi.
 
@@ -306,9 +306,102 @@ a budou pokořování čtyři sta let.* (Gn 15,13) Tou zemí se
 zřejmě míní Egypt. Avšak Hospodin Egypťany bude soudit
 a Abramovi potomci vyjdou s velkým majetkem.
 
-### Poznámky
+### Genesis 16
 
-Podle Pince ženy a muži nemají stejné postavní před Bohem.
-Muži musí doslova poslechnout jako Abrahám, když má obětovat
-Izáka, nebo Lot, ale Lotovi dcery ho můžou opít a zachránit
-lidstvo a Bůh jim požehná.
+Protože Sáraj vidí, že nemůže mít děti, rozhodne se dát
+Abramovi její otrokyni Hagar. Hagar s Abramem otěhotní, ale
+přestane si Sáraj vážit a ta ji proto vyžene.
+
+Zde se poprvé objeví Hospodinův anděl, který najde Hagar
+v pustině a řekne jí ať se navrátí, že ji velice rozmnoží
+potomstvo (tohle se slibuje velice často, zřejmě jim
+na zachování rodu velice záleželo) a ať dá dítěti jméno
+Izmael (Gn 16,11).
+
+### Genesis 17
+
+Sedmnáctá kapitola je o uzavření smlouvy jejímž znamením je
+obřízka: *Každý mužského pohlaví mezi vámi musí být obřezán.
+Obřežte si maso své předkožky a to bude znamením smlouvy
+mezi mnou a vámi.* (Gn 17,10—11) Obsahem smlouvy je, že se
+Abram přejmenovaný Bohem *Všemohoucím* na Abrahama (otec
+mnohých) stane otcem množství národů.
+
+V druhé části kapitoly Bůh přejmenuje Sáraj na Sáru a řekne
+Abrahamovi, že se jí narodí syn, kterého má pojmenovat Izák
+(smíšek). Abraham se mu směje a říká: *(...) A Sára bude
+snad v devadesáti rodit?* (Gn 17,17) Bůh dodá, že Izmaelovi
+požehná, ale smlouvu uzavře s Izákem.
+
+Proč je vlastně Hospodin přejmenovává?
+
+### Genesis 18
+
+Na začátku této kapitoly přijdou k Abrahamovi a Sáře tři
+hosté a řeknou jim, kdy se Sáře narodí syn. Sára se směje,
+protože už ani nemá menstruaci.
+
+Poté Abraham vyprovází hosty k Sodomě a při tom se
+od Hospodina dozví, že chce vyhladit Sodomu a Gomoru pro
+zlo.  Abraham se snaží Sodomu už podruhé zachránit a domluví
+s Hospodin, že když najde deset spravedlivých, tak města
+nevyhladí.
+
+### Genesis 19
+
+Pojednává o zkáze Sodomy a Gomory deštěm síry a ohně. Jen
+Lot je zachráněn dvěma anděly, kteří ho přijdou varovat.
+Protože jeho žena pohleděla zpět, což jim byla zakázáno,
+stala se solným sloupem (Gn 19,26), ale Lot měl dvě dcery
+a v zemi nebylo muže, tak ho dcery opily a otěhotněli s ním.
+
+Toto je podle Pince jasný příklad, že ženy a muži nemají
+stejné postavení před Bohem. Muži musí doslova poslechnout
+jako Abrahám, ale Lotovi dcery se klidně mohou dopustit sexu
+s vlastním otcem.
+
+### Genesis 20
+
+Tato kapitola vypráví podobný příběh, jako když byl Abraham
+se Sároy v Egyptě (Gn 12). Akorát teď je v Geraru a král se
+jmenuje Abímelek a Hospodin ho sám zastaví, aby na Sáru ani
+nesáhl. Dozvídáme se, že Sára a Abraham mají stejného otce,
+ale jinou matku. Jsou tedy skoro bratr a sestra.
+
+Také se zde poprvé objevuje slovo *modlit* (Abraham se bude
+modlit za Abímeleka) a *prorok* (Abraham je takto označen).
+(Gn 20,7)
+
+### Genesis 21
+
+Teď Sára otěhotní a porodí Izáka. Následně donutí Abrahama,
+aby vyhnal Hagar s Izmaelem. Abraham je skleslý, ale i Bůh
+mu potvrdí, aby to udělal. Bůh chce, aby *v Izákovi bude
+povoláno tvé símě.* (Gn 21,12) To je zvláštní asi mu záleží
+velice i na potomcích Sářiným. Na Hagar s Izmaelem ale
+nezanevře na cestě jim pomůže. (Gn 21,12) To je zvláštní asi
+mu záleží velice i na potomcích Sářiným. Na Hagar s Izmaelem
+ale nezanevře na cestě jim pomůže.
+
+Kapitolu uzavírá snad nedulůžitá smlouva mezi Abrahamem a
+Abímelekem.
+
+### Genesis 22
+
+Bůh Abrahama zkouší. Chce po něm: *Nuže, vezmi svého syna,
+svého jediného, jehož miluješ, Izáka, a jdi do země Mórija.
+Tam ho obětuj jako zápalnou oběť na jedné z hor, o níž ti
+povím.* (Gn 22,2). Abraham se vypraví na místo se synem
+a dvěma služebníky. Služebníky nechá v dáli od místa a řekne
+jim: *Pokloníme se Bohu a vrátíme se k vám.* (Gn 22,5) Asi
+tedy tušil, že Izák přežije. Izák se diví, kde mají beránka,
+když jdou na horu a Abraham odpoví: *Bůh si opatří beránka
+k zápalné oběti, můj synu.* Abraham syna sváže a už už ho
+chce obětovat, ale anděl ho zachrání a jako náhodou je
+za ním beránek, kterého obětuje místo Izáka. Hospodinův
+anděl volá na Abrahama, že je s ním velice spokojen.
+
+Toto je čin naprosté oddanosti Bohu. Pro mě je až zvláštní,
+jak dokáže být Bůh krutý (potopa, Sodoma a Gomora, skoro
+obětování Izáka). Ještě, že v bibli není rozváděna
+psychologie postav.
