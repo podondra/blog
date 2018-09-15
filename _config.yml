@@ -18,7 +18,6 @@ email: ondrej.podsztavek@gmail.com
 lang: cs
 description: >- # this means to ignore newlines until "baseurl:"
         Konspekt je zhuštěný obsah díla.
-baseurl: "/konspekty" # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://podondra.cz"
 github_username: podondra
