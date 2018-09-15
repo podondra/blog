@@ -42,8 +42,6 @@ se inspiroval
 [přednáškou profesora Jana Sokola a Zdeňka Pince][genesis]
 v rámci Předletní školy FHS UK.
 
-[genesis]: https://www.youtube.com/watch?v=trSW16Fe7r8&list=PLbNGOQlEln48NuLT69WE3TrbF_nrch2NP
-
 ### Genesis 1—3
 
 Na začátku Genesis je jakási *kosmogonie* (nauka o vzniku
@@ -220,8 +218,6 @@ Poslední verš kapitoly zní: *Z těch se po potopě rozptýlily
 národy po zemi.* Čtu [Český studijní překlad][csp] a v něm
 je vždy napsáno jméno potomka a v poznámce jakého národa je
 předchůdcem.
-
-[csp]: https://www.bible.com/cs/bible/509/GEN.10.CSP
 
 V této kapitole je napsáno, že měli lidé různé jazyk (Gn
 10,31), ale teprve následující kapitola je o zmatení
@@ -405,3 +401,6 @@ Toto je čin naprosté oddanosti Bohu. Pro mě je až zvláštní,
 jak dokáže být Bůh krutý (potopa, Sodoma a Gomora, skoro
 obětování Izáka). Ještě, že v bibli není rozváděna
 psychologie postav.
+
+[csp]: https://www.bible.com/cs/bible/509/GEN.10.CSP
+[genesis]: https://www.youtube.com/watch?v=trSW16Fe7r8&list=PLbNGOQlEln48NuLT69WE3TrbF_nrch2NP
