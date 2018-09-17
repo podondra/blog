@@ -3,9 +3,6 @@ layout: post
 title:  "Auerbach, Erich: Mimesis"
 categories: konspekt
 ---
-Slovo *mimesis* je odvozeno od řeckého slova *mimeisthai*,
-napodobovat a znamená napodobení nebo znázornění.
-
 Zabývám se pouze prvními dvěma kapitolami.
 
 ## Bibliografické údaje
@@ -18,7 +15,13 @@ Vydala Mladá fronta v roce 1998.
 ## Autor a doba
 
 Erich Auerbach (1892—1957) byl německo-židovský filolog
-a literární kritik.
+a literární kritik. Narodil se v Berlíně a získal doktorát
+na universitě v Greifswaldu roku 1921. Pracoval jako
+knihovník a od roku 1929 pracoval jako profesor filologie
+na univesitě v Marburgu. Roku 1936 ho nacistická strana
+propustila. V létech 1936 až 1947 učil na Istanbulské
+universitě, kde napsal *Mimesis*. V roce 1947 se přesunul
+na Yale University. Umřel ve Wallingfordu, USA.
 
 ## Téma
 
@@ -30,7 +33,15 @@ Proč se tím autor zabývá? Tradice, metody, polemiky.
 
 ## Klíčová slova
 
-## Klíčévé problémy
+*Mimesis* je odvozeno od řeckého slova *mimeisthai*,
+napodobovat a znamená napodobení nebo znázornění.
+
+*Retardace* se nazývá předjímání a vracení děje. Retardaci
+Auerbach považuje za protiklad napínavému. (s. 10) Původ
+*epiteta* (básnického přívlastku) odvozuje také od tohoto
+homérského přístupu. (s. 11)
+
+## Klíčové problémy
 
 Výčet se stručnou charakteristikou.
 
@@ -65,11 +76,6 @@ protože se stane přítomností a čtenář na původní děj zcela
 zapomene. (s. 10) Homérský styl nezná vzpomínání (Odysseus
 vzpomínající na to, jak přišel k jizvě), ale pouze
 objektivní přítomnost. (s. 12)
-
-Toto předjímání a vracení děje se nazývá *retardace*.
-Retardaci dokonce považuje za protiklad napínavému. (s. 10)
-Původ *epiteta* (básnického přívlastku) odvozuje také od
-tohoto homérského přístupu. (s. 11)
 
 Následuje srovnání s *neméně antickým a neméně epickým
 textem* [Obětováním Izáka][bible]. Příběh začíná takto:
