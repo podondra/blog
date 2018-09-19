@@ -165,7 +165,7 @@ nezapadají.
 
 Noe zplodil syny Šém, Chám, Jefet.
 
-### Genensis 6—10
+### Genesis 6—10
 
 V tomto okamžiku se Hospodin rozhodne vyhladit člověka
 potopou, protože *(...) všechno zaměření úmyslů jejich srdce
@@ -399,8 +399,60 @@ anděl volá na Abrahama, že je s ním velice spokojen.
 
 Toto je čin naprosté oddanosti Bohu. Pro mě je až zvláštní,
 jak dokáže být Bůh krutý (potopa, Sodoma a Gomora, skoro
-obětování Izáka). Ještě, že v bibli není rozváděna
+obětování Izáka). Ještě že v bibli není rozváděna
 psychologie postav.
+
+### Genesis 23
+
+Umřela Sára, a tak Abraham koupil od chetejce Efróna pole
+s jeskyní, v níž ji pohřbil.
+
+### Genesis 24
+
+Abraham vyšle svého otroka, aby našel Izákovi ženu v jeho
+rodné zemi (nechtěl pro Izáka místní ženu). Je zajímavé, že
+otrok mluví o Hospodinovi jako o bohu jeho pána. Otrok našel
+Izákovi Rebeku, dceru Betúela syna Náchoro bratra Abrahama.
+
+Na konci se píše o tom, jak si Rebeke vzala *závoj*, když
+uviděla Izáka, který si ji zamiloval.
+
+### Genesis 25
+
+Na začátku se praví o další ženě Abrahama Ketúře a jejich
+synech. Poté o Abrahamově pohřbu v jeskyni, kde byla
+uchována Sára. (Gn 25,1—11)
+
+Následuje popis Izmaelových potomků. (Gn 25,12—18)
+
+Na konci je vyprávění o synech Izáka a Rebeky. Rebeka
+nemohla otěhotnět, ale nakonec se dal Hospodin pohnout
+a Rebeka otěhotněla. Bohužel *(...) děti se v jejím nitru
+kopaly.* (Gn 25,22) Podle Hospodina byly v jejím nitru dva
+národy, jeden slabší než druhý a *starší bude sloužit
+mladšímu.* (Gn 25,23) První se narodil chlupatý Ezau a druhý
+Jákob (podrážející, lstivý), který držel Ezaua za patu.
+
+Ezau je lovec a olíbenec Izáka. Jákob je civilizovaný
+a oblíbenec Rebeky. (Gn 25,27—28)
+
+Poslední odstavec je o tom jak Ezau pohrdl prvorozenstvím.
+(Gn 25,29—34) Vůbec prvorozenství se jeví jako velice
+důležité celou Genesis. Požehnání i vyprávění vetšinou
+následuje prvorozeného syna, který pochází z vhodné matky
+(Izmael byl size prvorozený, ale jeho matka byla egypťanka
+Hagar).
+
+### Genesis 26
+
+Vypráví podobný příběh jako Genesis 20, akorát místo
+Abrahama a Sáry hrají hlavní role Izák a Rebeka.
+
+Vůbec se v Genesis často opakují stejné rámcové příbehy jako
+dva vzájemně se nenávidění bratři, hlad a úprk do jiné země,
+slib velkého rozmnožení potomstva.
+
+### Genesis 27—35
 
 [csp]: https://www.bible.com/cs/bible/509/GEN.10.CSP
 [genesis]: https://www.youtube.com/watch?v=trSW16Fe7r8&list=PLbNGOQlEln48NuLT69WE3TrbF_nrch2NP
