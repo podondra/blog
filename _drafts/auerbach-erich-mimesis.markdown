@@ -10,7 +10,7 @@ Zabývám se pouze prvními dvěma kapitolami.
 Mimesis: Zobrazení skutečnosti v západoevropských
 literaturách. Německý originál je *Mimesis: Dargestellte
 Wirklichkeit in der abendländischen Literatur* (1946).
-Vydala Mladá fronta v roce 1998.
+Vydala Mladá fronta v roce 1998. Dostupné [online][mimesis].
 
 ## Autor a doba
 
@@ -21,33 +21,22 @@ knihovník a od roku 1929 pracoval jako profesor filologie
 na univesitě v Marburgu. Roku 1936 ho nacistická strana
 propustila. V létech 1936 až 1947 učil na Istanbulské
 universitě, kde napsal *Mimesis*. V roce 1947 se přesunul
-na Yale University. Umřel ve Wallingfordu, USA.
+Do USA (Pennsylvania State College, Princeton a Yale
+University). Roku 1956 byl jmenován profesorem. Umřel
+ve Wallingfordu, USA.
+
+Auerbach psal tyto dvě kapitoly během druhé světové války.
 
 ## Téma
 
-O čem to je?
-
-## Motiv a badatelský kontext knihy
-
-Proč se tím autor zabývá? Tradice, metody, polemiky.
+První dvě kapitoly se zabývají porovnáním způsobu
+zobrazování skutečnosti v řeckořímské a židovsko-křesťanské
+literatuře.
 
 ## Klíčová slova
 
 *Mimesis* je odvozeno od řeckého slova *mimeisthai*,
 napodobovat a znamená napodobení nebo znázornění.
-
-*Retardace* se nazývá předjímání a vracení děje. Retardaci
-Auerbach považuje za protiklad napínavému. (s. 10) Původ
-*epiteta* (básnického přívlastku) odvozuje také od tohoto
-homérského přístupu. (s. 11)
-
-## Klíčové problémy
-
-Výčet se stručnou charakteristikou.
-
-## Základní argumentace
-
-Její struktura a hlavní kroky.
 
 ## Marginální souvislosti
 
@@ -134,15 +123,23 @@ zabívají pouze otázkami panské vrstvy, kdežto v bibli se
 příbehy utváří v každodenním životě (Kain a Ábel, Hagar
 a Sára). (s. 25)
 
+### Fortunata
+
 ## Poznámky
 
 *(...), aby mu umyla nohy, ve starých přibězích obvyklých
 první povinný projev pohostinství k unavenému poutníkovi;
 (...)* (s. 9)
 
+*Retardace* se nazývá předjímání a vracení děje. Retardaci
+Auerbach považuje za protiklad napínavému. (s. 10) Původ
+*epiteta* (básnického přívlastku) odvozuje také od tohoto
+homérského přístupu. (s. 11)
+
 *(...) oba styly působily konstitutivně na evropské
 vystižení skutečnosti v té výsledné podobě, jíž dosáhly už
 v raných dobách.* (s. 26)
 
-[odysseia]: {{ site.baseurl }}{% post_url 2018-09-10-homer-odysseia %}
-[bible]: {{ site.baseurl }}
+[bible]: /
+[mimesis]: http://moodle.fhs.cuni.cz/file.php/1/tmp/Auerbach_Mimesis.doc
+[odysseia]: {% post_url 2018-09-10-homer-odysseia %}
