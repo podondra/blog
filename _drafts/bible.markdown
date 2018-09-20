@@ -452,30 +452,31 @@ Vůbec se v Genesis často opakují stejné rámcové příbehy jako
 dva vzájemně se nenávidění bratři, hlad a úprk do jiné země,
 slib velkého rozmnožení potomstva.
 
-### Genesis 27—35
+### Genesis 27—33
 
-Kapitoly dvacet sedm až třicet pět popisují Jákobův život.
+Kapitoly dvacet sedm až třicet pět popisují příhody Jákobova
+života.
 
 V dvacáté sedmé kapitole je příběh o Jákobově získání
-Izákova požehnání. Abraham je jich na sklonku života a je
+Izákova požehnání. Izák je již na sklonku života a je
 slepý, tak chce požehnat chlupatému prvorozenému Ezauovi.
-Rebeka ale oblékne Jákoba do kůže kůzlat a on přesltí Izáka,
+Rebeka ale oblékne Jákoba do kůže kůzlat a on přelstí Izáka,
 který mu požehná a na rozhořčeného Ezaua nic nezbude. Ezau
 chce Jákoba zabít, a ten proto utíká k bratrovi Rebeky (na
 začátku dvacáté osmé kapitoly), kde si má nalézt i ženu.
 
-Poté se Jákobobi v dvacáté osmé kapitole zdá sen, ve kterém
+Poté se Jákobovi v dvacáté osmé kapitole zdá sen, ve kterém
 k němu přistoupí Hospodin a slíbí mu tuto zemi, kde leží
 (byl zrovna v Bételu). Jákob poprvné označí Hospodina svým
 Bohem. Předtím o něm mluvil jako o Bohu Abrahama a Izáka.
 
 Už se vlastně vůbec nedivím, že se židé chtěli do Izraele
-vrátit, když je to v Genesis tolikrát zmiňováno, že jim tato
+vrátit, když je v Genesis tolikrát zmiňováno, že jim tato
 země bude dána.
 
 V dvacáté deváté kapitole potká Jákob pastýřku Ráchel, dceru
 Lábana bratra Rebeky. Ukáže před Ráchel svou sílu, když
-odvalí kámen ze studny (Gn 29,10), a zamiluje se do Ráchel.
+odvalí kámen ze studny (Gn 29,10), a zamiluje se do ní.
 S Lábanem se dohonou, že mu Jákob bude 7 let sloužit a pak
 dostane Ráchel za ženu.
 
@@ -488,12 +489,12 @@ si musí odpracovat dalších sedm let.
 Na přelomu dvacáté deváté a třicáté kapitoly se opakuje
 trochu rozšířený motiv plodnosti nemilované ženy (Lea
 porodila syny Rúbena, Šimeóna, Léviho a Judu) a neplodnosti
-milované (Ráchel). Ráchel dal Jákobovi namísto sebe služku
+milované (Ráchel). Ráchel dala Jákobovi namísto sebe služku
 Bilha, Jákob k ní *vešel* a ona porodila Dana a Neftalína.
 Ovšem Lea nezůstala pozadu a dala Jákobovi svou služku
 Zilpu, která porodila Gáda a Ašera. Aby toho nebylo málo,
 tak Ráchel jednu noc s Jákobem vymění s Leou za jablíčko
-lásky (plod mandragory). Lea tedy porodí Isachara. Pak
+lásky (plod mandragory). Lea z toho porodí Isachara. Pak
 najednou ještě Zabulóna a dceru Dínu. To je snad první
 dcera, o které se výslovně řekne, že se narodila (Gn 30,21).
 Vše dobře dopadne a Ráchel porodí Josefa (znamená kéž
@@ -515,6 +516,60 @@ zápasí s Bohem, který ho nemůže přemoct, a tak ho udeří pod
 kyčel (vysvětlení proč se nejí šlacha na kyčelním kloubem).
 Jákob ho donutil, aby mu požehnal. Při požehnání je
 přejmenován na Izraele (znamená bojuje Bůh). (Gn 32,25—33)
+
+Třicátá třetí kapitola popisuje Izákovo a Ezauovo setkání.
+Přestože se Izák velice bojí, Ezau ho přijme velice mile.
+Poté se Izák usazuje u Šekemu.
+
+### Genesis 34
+
+Tato kapitola o hříchu znásilnění. Jákobova dcera Dína je
+znásilněna Šekememe, což je v rodině pociťováno velice
+negativně. Šekem si poté přišel Dínu vyprosit, ale proradní
+Jákobovi synové mu namluví, že mu ji dají když se všichni
+muži z jejich lidu nechají obřezat. Šekem nechá všechny
+obřezat. Když mají třetí den bolesti Jákobovi synové je
+všechny pobijí.
+
+### Genesis 35
+
+Jákob je znovu přejmenován na Izraele (Gn 35,10). Umírá
+Ráchel při porodu Benjamína a umírá také Izák.
+
+### Genesis 36
+
+Tata kapitola je rodopisem Ezaua, otce Edómců a mnoha
+náčelníků a králů.
+
+### Genesis 37
+
+Josef, nejmladší a nejoblíbenější syn Jákobův, má dva sny.
+V prvním se mu jako snopy klaní bratří a v druhém se mu
+klaní slunce, měsíc a 11 hvězd (otec, matka a 11 bratrů).
+Tak ho začali bratři nenávidět. (Gn 37,1—12)
+
+Jednou na pastvě se bratři domluvili, že Josefa zabijí, ale
+Rubén jim to vymluvil, a tak ho na popud Judův prodali do
+otroctví v Egyptě. Pak podveli otce: *Nato vzali Josefovu
+suknici, zabili kozla a nomočili suknici do krve.* (Gn
+37,31) Jákob si tedy myslel, že byl Josef rozdrásán zvěří.
+Objevuje se zde zmínka o *podsvětí*. (Gn 37,35)
+
+### Genesis 38
+
+Juda odešel od svých bratru a adulamskému muži. Vzal si ženu
+a měl syny Éra, Ónana a Šela. Érovi našel ženu Támaru, ale
+Ér byl zlý v očích Hospodina, a tak ho usmrtil. Proto měl
+Támaru oplodnit Ónan, ale ten nechtěl: *(...) vypouštěl
+semeno na zem, (...)* (Gn 38,9), a proto i jeho Hospodin
+usmrtil. Támara to tedy vzala do vlastních rukou,
+přestrojila se za nevětsku a vstoupil k ní Juda, který jí
+nepoznal. Když viděl, že Támara, která měla čekal na Šela,
+je těhotná, chtěl ji nechat upálit (Gn 38,24). Pak se
+ukázalo, že Juda je otec, a tak porodila Perese (předek
+Davida) a Zeracha.
+
+### Genesis 39—50
 
 [csp]: https://www.bible.com/cs/bible/509/GEN.10.CSP
 [genesis]: https://www.youtube.com/watch?v=trSW16Fe7r8&list=PLbNGOQlEln48NuLT69WE3TrbF_nrch2NP
