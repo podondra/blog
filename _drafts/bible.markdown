@@ -36,9 +36,9 @@ jaký to dává smysl, co si o tom myslím a proč si to myslím.
 
 ## Genesis
 
-Genesis (hebrejsky *Berešit*, též *První kniha Mojžíšova*)
-je první knihou bible. Při jejím čtení a interpretaci jsem
-se inspiroval
+Genesis (řecky *zrod* nebo *vznik*, hebrejsky *Berešit*, též
+*První kniha Mojžíšova*) je první knihou bible. Při jejím
+čtení a interpretaci jsem se inspiroval
 [přednáškou profesora Jana Sokola a Zdeňka Pince][genesis]
 v rámci Předletní školy FHS UK.
 
@@ -453,6 +453,68 @@ dva vzájemně se nenávidění bratři, hlad a úprk do jiné země,
 slib velkého rozmnožení potomstva.
 
 ### Genesis 27—35
+
+Kapitoly dvacet sedm až třicet pět popisují Jákobův život.
+
+V dvacáté sedmé kapitole je příběh o Jákobově získání
+Izákova požehnání. Abraham je jich na sklonku života a je
+slepý, tak chce požehnat chlupatému prvorozenému Ezauovi.
+Rebeka ale oblékne Jákoba do kůže kůzlat a on přesltí Izáka,
+který mu požehná a na rozhořčeného Ezaua nic nezbude. Ezau
+chce Jákoba zabít, a ten proto utíká k bratrovi Rebeky (na
+začátku dvacáté osmé kapitoly), kde si má nalézt i ženu.
+
+Poté se Jákobobi v dvacáté osmé kapitole zdá sen, ve kterém
+k němu přistoupí Hospodin a slíbí mu tuto zemi, kde leží
+(byl zrovna v Bételu). Jákob poprvné označí Hospodina svým
+Bohem. Předtím o něm mluvil jako o Bohu Abrahama a Izáka.
+
+Už se vlastně vůbec nedivím, že se židé chtěli do Izraele
+vrátit, když je to v Genesis tolikrát zmiňováno, že jim tato
+země bude dána.
+
+V dvacáté deváté kapitole potká Jákob pastýřku Ráchel, dceru
+Lábana bratra Rebeky. Ukáže před Ráchel svou sílu, když
+odvalí kámen ze studny (Gn 29,10), a zamiluje se do Ráchel.
+S Lábanem se dohonou, že mu Jákob bude 7 let sloužit a pak
+dostane Ráchel za ženu.
+
+Ráchel ale nebyla prvorozená dcera to byla Lea, a tak po
+sedmi letech Lában Jákoba podvedl a do postele mu postrčil
+Leu, ke které Jákob *vešel* (Gn 29,23). Pak je zmínka
+o *svatebním týdnu*, po kterém dostal Jákob Ráchel. Bohužel
+si musí odpracovat dalších sedm let.
+
+Na přelomu dvacáté deváté a třicáté kapitoly se opakuje
+trochu rozšířený motiv plodnosti nemilované ženy (Lea
+porodila syny Rúbena, Šimeóna, Léviho a Judu) a neplodnosti
+milované (Ráchel). Ráchel dal Jákobovi namísto sebe služku
+Bilha, Jákob k ní *vešel* a ona porodila Dana a Neftalína.
+Ovšem Lea nezůstala pozadu a dala Jákobovi svou služku
+Zilpu, která porodila Gáda a Ašera. Aby toho nebylo málo,
+tak Ráchel jednu noc s Jákobem vymění s Leou za jablíčko
+lásky (plod mandragory). Lea tedy porodí Isachara. Pak
+najednou ještě Zabulóna a dceru Dínu. To je snad první
+dcera, o které se výslovně řekne, že se narodila (Gn 30,21).
+Vše dobře dopadne a Ráchel porodí Josefa (znamená kéž
+přidá).
+
+To bych v bibli nečekal, že Jákob bude mít děti s tolika
+různými ženami, ale proč ne.
+
+Postupně začíná Lában soužit Jákoba, jeho ženy a děti, a tak
+se Jákob rozhodne s nimi odejít za Izákem. Utíká po podivné
+přetahované o ovce a kozy.
+
+Začátek třicáté druhé kapitoli popisuje strach vracejícího
+se Izáka před Ezauem. Posílá mu dary se zprávami, že je jeho
+otrokem.
+
+Na konci třicáté druhé kapitoly se děje podivná věc. Jákob
+zápasí s Bohem, který ho nemůže přemoct, a tak ho udeří pod
+kyčel (vysvětlení proč se nejí šlacha na kyčelním kloubem).
+Jákob ho donutil, aby mu požehnal. Při požehnání je
+přejmenován na Izraele (znamená bojuje Bůh). (Gn 32,25—33)
 
 [csp]: https://www.bible.com/cs/bible/509/GEN.10.CSP
 [genesis]: https://www.youtube.com/watch?v=trSW16Fe7r8&list=PLbNGOQlEln48NuLT69WE3TrbF_nrch2NP
