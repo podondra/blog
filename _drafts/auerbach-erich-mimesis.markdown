@@ -17,13 +17,13 @@ Vydala Mladá fronta v roce 1998. Dostupné [online][mimesis].
 Erich Auerbach (1892—1957) byl německo-židovský filolog
 a literární kritik. Narodil se v Berlíně a získal doktorát
 na universitě v Greifswaldu roku 1921. Pracoval jako
-knihovník a od roku 1929 pracoval jako profesor filologie
-na univesitě v Marburgu. Roku 1936 ho nacistická strana
-propustila. V létech 1936 až 1947 učil na Istanbulské
-universitě, kde napsal *Mimesis*. V roce 1947 se přesunul
-Do USA (Pennsylvania State College, Princeton a Yale
-University). Roku 1956 byl jmenován profesorem. Umřel
-ve Wallingfordu, USA.
+knihovník a od roku 1929 učil filologii na univesitě
+v Marburgu. Roku 1936 ho nacistická strana propustila.
+V létech 1936 až 1947 učil na Istanbulské universitě, kde
+napsal *Mimesis*. V roce 1947 se přesunul Do USA
+(Pennsylvania State College, Princeton a Yale University).
+Roku 1956 byl jmenován profesorem. Umřel ve Wallingfordu,
+USA.
 
 Auerbach psal tyto dvě kapitoly během druhé světové války.
 
@@ -67,7 +67,7 @@ vzpomínající na to, jak přišel k jizvě), ale pouze
 objektivní přítomnost. (s. 12)
 
 Následuje srovnání s *neméně antickým a neméně epickým
-textem* [Obětováním Izáka][bible]. Příběh začíná takto:
+textem* Obětováním Izáka. Příběh začíná takto:
 *(...) zkoušel Abraháma. Pravil k němu: Abraháme! Odpoveděl:
 Tu jsem.* Nepraví se nic o tom kde jsou, ani o důvodu, proč
 Abraháma tak strašně zkoušel. Zjevuje se Bůh, který nijak
@@ -89,10 +89,10 @@ Auerbach se také zabývá psychologickým pozadím postav. Říká,
 že biblické postavy mají daleko mnohovrstevntější myšlenky
 a pocity oproti hrdinům homérským, které mají jsou
 jednoznačně utvořené a mají daný osud. (s. 16) Odysseus se
-během vyprávění vůbec nezmění. (s. 20) To může být kvůli
-skutečnosti podle mě, že řekové věrili na *predestinaci*.
+během vyprávění vůbec nezmění. (s. 20) To může být podle mě
+kvůli skutečnosti, že řekové věrili na predestinaci.
 
-Podle mě je této složitosti dosaženo nepopsáním a my si ji
+Myslím, že této složitosti je dosaženo nepopsáním a my si ji
 tedy musíme v případě biblických postav domyslet a tím si do
 nich onu složitost naprojektujeme. Můžeme totiž o Abrahámovi
 přemýšlet i jako o hlupákovi, který koná to, co mu Bůh praví
@@ -101,21 +101,21 @@ na složitosti. Ale třeba musím přečíst ještě větší část
 bible.
 
 Následně Auerbach kritizuje homérské básně tak, že ačkoliv
-se zdají velice syntakticky a jazykově vyvinuté, po tím se
+se zdají velice syntakticky a jazykově vyvinuté, pod tím se
 skrývá *poměrně jednoduchý obraz člověka*. Radost
 ze smyslného zdebytí. Všechno je pouhá *vylhaná* báj.
 Homéra podle něj můžeme analyzovat, ale nelze ho vykládat.
 Samozřejmě staví do protikladu bibli, kde nejde o okouzlení
 smyslů, ale o vyjádření *historické pravdy*. (s. 17)
 
-Tento rozdíl je podle mě jasně dán účelem textů.
+Tento rozdíl je podle mého názoru jasně dán účelem textů.
 
 Poté se snaží vysvětlit nejednotnost a rozpory Starého
 zákona oproti jednotnosti homérských eposů. Argumentuje tím,
 že zaznamenat dějinou událost je velice složité, protože
 události ze svědectví účastníků se jeví nejednotně a
 zmateně. Dává příklad předválečné situace v Německu. Naproti
-tomu báje si může uspořádat látku směje a jednoznačně. (s.
+tomu látku báje si může uspořádat směle a jednoznačně. (s.
 20 a 22)
 
 Kapitolu zakončuje poukazem na to, že homérské eposy se
@@ -124,6 +124,41 @@ příbehy utváří v každodenním životě (Kain a Ábel, Hagar
 a Sára). (s. 25)
 
 ### Fortunata
+
+V druhé kapitole, nazvané podle ženy Trimalchionovi
+Fortunaty, porovnává Auerbach Petroniovu *hostinu u bohatého
+propuštěnce Trimalchiona* z románu Satirikon a ukázku
+z Tacitových Letopisů s historií Petrova pádu podle Markova
+podání.
+
+Na začátku je úryvek, ve kterém *odpovídá jeden z hostů
+vypravěči epizody Encolpiovi na dotaz, kdo je ta žena, která
+pobíhá sem tam po sále.* Auerbach si všímá, že vypravěč se
+dozvěděl mnohem více než na, co se ptal, a zabývá se jazykem
+textu. Je to jazyk, který dává jasnou představu o mluvčím
+a jeho okolí. Poukazuje na podobnost s Homérem, protože
+na popis je dostatek času a nic *nezástane utajeno
+v pozadí.* (s. 28—29)
+
+Dále se Auerbach zabývá rozdílnostmi oproti homérskému
+stylu:
+
+1. Petroniovo podání je subjektivní (vypráví ho
+Encolpiem), což je ve starověku velmi vzácné, přesto má
+objektivní cíl, a to popsat situaci (je to druh
+*perspektivního postupu*). (s. 29)
+2. Encolpius líčí, čím lidé kdysi bývali v protikladu k
+tomu, čím jsou teď. Stejně jako Homér tedy prokládá
+vyprávění popisem původu jednotlivých postav, ale naproti
+Homérovi vidí změny podmíněné historicky, prakticky a hrou
+náhody (ne jako Homér jehož postavy jsou neměnné). *V jeho
+očích je svět unášen neustálým pohybem, (...)* (s. 30)
+3. *Nejpodstatnější* rozdíl nebo spíše rys hostiny
+u Trimalchiona je, že *se blíží moderní představě
+realistického podání* pro své *přesné a neschematizující
+vystižení společenského prostředí* (jeho propuštěnci mají
+společné názory a mluví svým jazykem téměř bez stylizace).
+(s. 32)
 
 ## Poznámky
 
@@ -140,6 +175,19 @@ homérského přístupu. (s. 11)
 vystižení skutečnosti v té výsledné podobě, jíž dosáhly už
 v raných dobách.* (s. 26)
 
-[bible]: /
+*[Propuštěnec][propustenec]* byl otrok, kterého
+ve starověkém Římě jeho pán propustil na svobodu a tím mu
+daroval svobodu a právní osobnost.
+
+*[Floskule]* je květnatý výraz nebo bezobsažná fráze, pouze
+naučená věta.
+
+Štestěna je v antické literatuře velice důležitá. Není
+ale považováná za důvod historického pohybu, nýbrž často
+zasahuje jako strašná rána osudu nebo mimořádná shoda
+okolností (viz Oidipa). (s. 31)
+
+[floskule]: https://slovnik-cizich-slov.abz.cz/web.php/slovo/floskule
 [mimesis]: http://moodle.fhs.cuni.cz/file.php/1/tmp/Auerbach_Mimesis.doc
 [odysseia]: {% post_url 2018-09-10-homer-odysseia %}
+[propustenec]: https://cs.wikipedia.org/wiki/Propu%C5%A1t%C4%9Bnec
