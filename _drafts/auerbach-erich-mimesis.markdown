@@ -19,7 +19,7 @@ a literární kritik. Narodil se v Berlíně a získal doktorát
 na universitě v Greifswaldu roku 1921. Pracoval jako
 knihovník a od roku 1929 učil filologii na univesitě
 v Marburgu. Roku 1936 ho nacistická strana propustila.
-V létech 1936 až 1947 učil na Istanbulské universitě, kde
+V letech 1936 až 1947 učil na Istanbulské universitě, kde
 napsal *Mimesis*. V roce 1947 se přesunul Do USA
 (Pennsylvania State College, Princeton a Yale University).
 Roku 1956 byl jmenován profesorem. Umřel ve Wallingfordu,
@@ -40,9 +40,11 @@ napodobovat a znamená napodobení nebo znázornění.
 
 ## Marginální souvislosti
 
-Jak zpracovaný text souvisí s mojí ostatní četbou? Čemu
-nerozumím nebo s čím nesouhlasím atp. Jde o to naučit se
-oddělovat moje stanovisko od reprodukce přečteného.
+Tento text čtu z doporučení docenta Zdeňka Pince
+na [Předletní škole 2018 Fakulty humanitních studií
+Univerzity Karlovy][predletni_skola] jako velice vhodný
+doplněk k četbě Ílias, Odysseii a Genesis, které se právě
+snažím přečíst.
 
 ## Konspekt
 
@@ -68,35 +70,35 @@ objektivní přítomnost. (s. 12)
 
 Následuje srovnání s *neméně antickým a neméně epickým
 textem* Obětováním Izáka. Příběh začíná takto:
-*(...) zkoušel Abraháma. Pravil k němu: Abraháme! Odpoveděl:
+*(...) zkoušel Abraháma. Pravil k němu: Abraháme! Odpověděl:
 Tu jsem.* Nepraví se nic o tom kde jsou, ani o důvodu, proč
 Abraháma tak strašně zkoušel. Zjevuje se Bůh, který nijak
 nevypadá a přesto se *zjevuje*. To jsou všechno protiklady
-k homérovskému přístupu. (s. 12—13) Například Abrahám se
+k homérskému přístupu. (s. 12—13) Například Abrahám se
 s Izákem a sluhy vydává na cestu *časně z rána*, to v textu
 ale není kvůli časovému určení, ale má mravní význam. Stejně
-jako označení Izáka jako jedináho syna, kterého miluješ,
-nemá popsat Izáka, ale má zdůraznit, jak strašlivá je to
-zkouška. (s. 13—14)
+jako označení Izáka jako jediného syna, kterého Abrahám
+miluje, nemá popsat Izáka, ale má zdůraznit, jak strašlivá
+je to zkouška. (s. 13—14)
 
 Zajímavá je myšlenka: *Židovská představa Boha není ani tak
 příčinou, jako spíš symptomem židovského pojetí
-a vyjadřovíní.* Například Abrahám sice říká: *Tady jsem.*,
+a vyjadřování.* Například Abrahám sice říká: *Tady jsem.*,
 ale hebrejsky to spíše znamená *viz mne* nebo *poslouchám*.
 (s. 13)
 
 Auerbach se také zabývá psychologickým pozadím postav. Říká,
 že biblické postavy mají daleko mnohovrstevntější myšlenky
-a pocity oproti hrdinům homérským, které mají jsou
-jednoznačně utvořené a mají daný osud. (s. 16) Odysseus se
-během vyprávění vůbec nezmění. (s. 20) To může být podle mě
-kvůli skutečnosti, že řekové věrili na predestinaci.
+a pocity oproti hrdinům homérským, které jsou jednoznačně
+utvořené a mají daný osud. (s. 16) Odysseus se během
+vyprávění vůbec nezmění. (s. 20) To může být podle mě kvůli
+skutečnosti, že řekové věřili na predestinaci.
 
 Myslím, že této složitosti je dosaženo nepopsáním a my si ji
 tedy musíme v případě biblických postav domyslet a tím si do
 nich onu složitost naprojektujeme. Můžeme totiž o Abrahámovi
-přemýšlet i jako o hlupákovi, který koná to, co mu Bůh praví
-a protože se nám to zdá nepravděpodobné, myslíme
+přemýšlet i jako o hlupákovi, který koná to, co mu Bůh
+praví, ale protože se nám to zdá nepravděpodobné, myslíme
 na složitosti. Ale třeba musím přečíst ještě větší část
 bible.
 
@@ -112,20 +114,20 @@ Tento rozdíl je podle mého názoru jasně dán účelem textů.
 
 Poté se snaží vysvětlit nejednotnost a rozpory Starého
 zákona oproti jednotnosti homérských eposů. Argumentuje tím,
-že zaznamenat dějinou událost je velice složité, protože
+že zaznamenat dějinnou událost je velice složité, protože
 události ze svědectví účastníků se jeví nejednotně a
 zmateně. Dává příklad předválečné situace v Německu. Naproti
 tomu látku báje si může uspořádat směle a jednoznačně. (s.
 20 a 22)
 
 Kapitolu zakončuje poukazem na to, že homérské eposy se
-zabívají pouze otázkami panské vrstvy, kdežto v bibli se
-příbehy utváří v každodenním životě (Kain a Ábel, Hagar
+zabývají pouze otázkami panské vrstvy, kdežto v bibli se
+příběhy utváří v každodenním životě (Kain a Ábel, Hagar
 a Sára). (s. 25)
 
 ### Fortunata
 
-V druhé kapitole, nazvané podle ženy Trimalchionovi
+V druhé kapitole, nazvané podle Trimalchionovi ženy
 Fortunaty, porovnává Auerbach Petroniovu *hostinu u bohatého
 propuštěnce Trimalchiona* z románu Satirikon a ukázku
 z Tacitových Letopisů s historií Petrova pádu podle Markova
@@ -137,11 +139,10 @@ pobíhá sem tam po sále.* Auerbach si všímá, že vypravěč se
 dozvěděl mnohem více než na, co se ptal, a zabývá se jazykem
 textu. Je to jazyk, který dává jasnou představu o mluvčím
 a jeho okolí. Poukazuje na podobnost s Homérem, protože
-na popis je dostatek času a nic *nezástane utajeno
+na popis je dostatek času a nic *nezůstane utajeno
 v pozadí.* (s. 28—29)
 
-Dále se Auerbach zabývá rozdílnostmi oproti homérskému
-stylu:
+Dále se Auerbach zabývá rozdílnostmi proti homérskému stylu:
 
 1. Petroniovo podání je subjektivní (vypráví ho
 Encolpiem), což je ve starověku velmi vzácné, přesto má
@@ -168,15 +169,15 @@ realismus nenahlíží věci na základě určité doby nebo místa,
 jakoby se sice individuum vyvíjelo, ale svět *setrvával
 v nehybnosti*. (s. 33—34)
 
-V souvislosti uvádí ukázku z antické histografie, a to
+V souvislosti uvádí ukázku z antické historigrafie, a to
 z Tacitových Annálů, o začátku revolty legií v Germanii
-po Augustově smrti (s. 35—36) a Auerbach hned nachází
-rozdíli proti moderních historikům. Tacitus píše jako
+po Augustově smrti (s. 35—36). Auerbach hned nachází
+rozdíly proti moderních historikům. Tacitus píše jako
 umělec, nepostupuje metodicky, analyticky ani objektivně.
-Veškeré věcné údaje o příčinách spoury, podané v ukázce
+Veškeré věcné údaje o příčinách vzpoury, podané v ukázce
 řečníkem Percenniem, předem znehodnotí tím, že pravou
-příčínu definuje *moralisticky* a vyjadřuje se opovržlivě
-o těchto vzpůrných vrstvách společnosti. Vojáky se nesnaží
+příčinu definuje *moralisticky* a vyjadřuje se opovržlivě
+o těchto vzpurných vrstvách společnosti. Vojáky se nesnaží
 pochopit. (s. 37)
 
 Dále Auerbach cituje Nordena: *musíme si uvědomit, že
@@ -185,55 +186,56 @@ idejí určujících běh světa a dokonce se o to ani nesnažilo*
 a Rostovceva: *Dějepisci se o hopodářský život říše
 nezajímali.* Tím se snaží říct, že antičtí historici
 neviděli dějinné síly, ale spíše morální hodnoty. Z toho
-také ukazuje, že nemohli vytvořit *syntetick dynamické
-pojmové struktury* (kapitalismus, resnesanec, atp.), jichž
-používáme dnes. Například renesance je syntáza určitých
-znaků, které se zpočátku vyskytují ojediněle, později
-v rostoucím počtu až se začnou pomalu vytrácet. O antických
-pojmech říká, že jsou *statické apriorní modely*. (s. 38—39)
+také ukazuje, že nemohli vytvořit *syntetické dynamické
+pojmové struktury* (kapitalismus, resnesance, atp.), jichž
+používáme dnes, protože to při tomto moralistickém nahlížení
+jsou možné jen *statické apriorní modely*. Například
+renesance je syntéza určitých znaků, které se zpočátku
+vyskytují ojediněle, později v rostoucím počtu až se začnou
+pomalu vytrácet. (s. 38—39)
 
 Základní dva rysy antického dějepisectví vidí Auerbach
-v jeho *moralismu* a *rétoričnosti* (ukazuje to na Tacitem
-vloženou řeč do Percenniových úst, která je umělá
-a nepřirozená). Podle něj jsou tyto charakteristiky
-neslučitelné s evolucionistickým pojetím dějetvorných sil.
-(s. 40)
+v jeho *moralismu* a *rétoričnosti*. Ukazuje to na řeči
+Tacitem vložené do Percenniových úst, která je umělá
+a nepřirozená. Podle něj jsou tyto rysy neslučitelné
+s evolucionistickým pojetím dějetvorných sil. (s. 40)
 
-Nyní pro srovnání uvádí text z židovsko-křesťanské
-literatury o historii Petrova pádu podle Marka, ve kterém je
-podle něj antický realismus překročen. Text se zcela
-realisticky zabývá osobami nejnižšího původu (Petr byl
-rybář) v každodenním prostředí a to nikoliv v komcikém
-podání, ale tragicky. Toto prý platí o všech novozákonních
-textech. (s. 40—42)
+Pro srovnání uvádí text z židovsko-křesťanské literatury
+o historii Petrova pádu podle Marka, ve kterém je podle něj
+antický realismus překročen. Text se zcela realisticky
+zabývá osobami nejnižšího původu (Petr byl rybář)
+v každodenním prostředí a to nikoliv v komickém podání ale
+tragickém. Toto prý platí o všech novozákonních textech. (s.
+40—42)
 
-Novozákonní texty se také líší tím, že v nich jde
+Novozákonní texty se také liší tím, že v nich jde
 o dějetvornou sílu (popisování účinku Ježíšova učení), která
 je vyjádřena skrze vystoupení velkého počtu libovolných
 osob, abychom tuto sílu mohli pocítit. (s. 43) Ale přesto
-Auerbach říká, že evangelia chápou dějinné síly naprosto
-*nevědecky* a neobjektivně. (s. 44)
+se neblíží modernímu pojetí, jak Auerbach říká, evangelia
+chápou dějinné síly naprosto *nevědecky* a neobjektivně. (s.
+44)
 
-Rozdílnost tětcho textů vychází i z odlišných hledisek
+Rozdílnost těchto textů vychází i z odlišných hledisek
 a různých čtenářů. Petronius a Tacitus byli svázáni jejich
 kulturní tradicí a psali pro vyšší vrstvu. Marek psal pro
-všechny v tradici starozákonních textů, které jsou popsány
-výšše. (s. 45—47)
+všechny v tradici starozákonních textů, jejichž styl je
+popsán výše. (s. 45—47)
 
 Vlastně podle mě kdyby naše kořeny byli pouze antické a ne
-i židovsko-křesťanské, zřejmě bychom v najem realistickém
+i židovsko-křesťanské, zřejmě bychom v našem realistickém
 pojetí světa byli velice pozadu.
 
 ## Poznámky
 
-*(...), aby mu umyla nohy, ve starých přibězích obvyklých
+*(...), aby mu umyla nohy, ve starých příbězích obvyklý
 první povinný projev pohostinství k unavenému poutníkovi;
 (...)* (s. 9)
 
-*Retardace* se nazývá předjímání a vracení děje. Retardaci
-Auerbach považuje za protiklad napínavému. (s. 10) Původ
-*epiteta* (básnického přívlastku) odvozuje také od tohoto
-homérského přístupu. (s. 11)
+*Retardace* se nazývá předjímání a vracení děje, které Homér
+často používá. Retardaci Auerbach považuje za protiklad
+napínavému. (s. 10) Původ *epiteta* (básnického přívlastku)
+odvozuje od tohoto homérského přístupu. (s. 11)
 
 *(...) oba styly působily konstitutivně na evropské
 vystižení skutečnosti v té výsledné podobě, jíž dosáhly už
@@ -246,8 +248,8 @@ daroval svobodu a právní osobnost.
 *[Floskule]* je květnatý výraz nebo bezobsažná fráze, pouze
 naučená věta.
 
-Štestěna je v antické literatuře velice důležitá. Není
-ale považováná za důvod historického pohybu, nýbrž často
+Štěstěna je v antické literatuře velice důležitá. Není
+ale považována za důvod historického pohybu, nýbrž často
 zasahuje jako strašná rána osudu nebo mimořádná shoda
 okolností (viz Oidipa). (s. 31)
 
@@ -258,4 +260,5 @@ nebo slok.
 [floskule]: https://slovnik-cizich-slov.abz.cz/web.php/slovo/floskule
 [mimesis]: http://moodle.fhs.cuni.cz/file.php/1/tmp/Auerbach_Mimesis.doc
 [odysseia]: {% post_url 2018-09-10-homer-odysseia %}
+[predletni_skola]: https://www.youtube.com/watch?v=KvFTyEOnxaM
 [propustenec]: https://cs.wikipedia.org/wiki/Propu%C5%A1t%C4%9Bnec
