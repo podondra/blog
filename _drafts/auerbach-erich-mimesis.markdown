@@ -156,9 +156,73 @@ očích je svět unášen neustálým pohybem, (...)* (s. 30)
 3. *Nejpodstatnější* rozdíl nebo spíše rys hostiny
 u Trimalchiona je, že *se blíží moderní představě
 realistického podání* pro své *přesné a neschematizující
-vystižení společenského prostředí* (jeho propuštěnci mají
-společné názory a mluví svým jazykem téměř bez stylizace).
-(s. 32)
+vystižení společenského prostředí* (propuštěnci mají
+společné názory jejich vrstvy a mluví svým jazykem téměř
+bez literární stylizace). (s. 32)
+
+Poté Auerbach rozvádí výše zmíněný třetí bod. Všímá si, že
+antická literatura připouští takto realistické dílo pouze
+v komických nebo satirických textech (popisovat vážně
+každodenní život nepřicházelo v antice v úvahu). Dále tento
+realismus nenahlíží věci na základě určité doby nebo místa,
+jakoby se sice individuum vyvíjelo, ale svět *setrvával
+v nehybnosti*. (s. 33—34)
+
+V souvislosti uvádí ukázku z antické histografie, a to
+z Tacitových Annálů, o začátku revolty legií v Germanii
+po Augustově smrti (s. 35—36) a Auerbach hned nachází
+rozdíli proti moderních historikům. Tacitus píše jako
+umělec, nepostupuje metodicky, analyticky ani objektivně.
+Veškeré věcné údaje o příčinách spoury, podané v ukázce
+řečníkem Percenniem, předem znehodnotí tím, že pravou
+příčínu definuje *moralisticky* a vyjadřuje se opovržlivě
+o těchto vzpůrných vrstvách společnosti. Vojáky se nesnaží
+pochopit. (s. 37)
+
+Dále Auerbach cituje Nordena: *musíme si uvědomit, že
+antické dějepisectví nikdy nedospělo k postižení obecných
+idejí určujících běh světa a dokonce se o to ani nesnažilo*
+a Rostovceva: *Dějepisci se o hopodářský život říše
+nezajímali.* Tím se snaží říct, že antičtí historici
+neviděli dějinné síly, ale spíše morální hodnoty. Z toho
+také ukazuje, že nemohli vytvořit *syntetick dynamické
+pojmové struktury* (kapitalismus, resnesanec, atp.), jichž
+používáme dnes. Například renesance je syntáza určitých
+znaků, které se zpočátku vyskytují ojediněle, později
+v rostoucím počtu až se začnou pomalu vytrácet. O antických
+pojmech říká, že jsou *statické apriorní modely*. (s. 38—39)
+
+Základní dva rysy antického dějepisectví vidí Auerbach
+v jeho *moralismu* a *rétoričnosti* (ukazuje to na Tacitem
+vloženou řeč do Percenniových úst, která je umělá
+a nepřirozená). Podle něj jsou tyto charakteristiky
+neslučitelné s evolucionistickým pojetím dějetvorných sil.
+(s. 40)
+
+Nyní pro srovnání uvádí text z židovsko-křesťanské
+literatury o historii Petrova pádu podle Marka, ve kterém je
+podle něj antický realismus překročen. Text se zcela
+realisticky zabývá osobami nejnižšího původu (Petr byl
+rybář) v každodenním prostředí a to nikoliv v komcikém
+podání, ale tragicky. Toto prý platí o všech novozákonních
+textech. (s. 40—42)
+
+Novozákonní texty se také líší tím, že v nich jde
+o dějetvornou sílu (popisování účinku Ježíšova učení), která
+je vyjádřena skrze vystoupení velkého počtu libovolných
+osob, abychom tuto sílu mohli pocítit. (s. 43) Ale přesto
+Auerbach říká, že evangelia chápou dějinné síly naprosto
+*nevědecky* a neobjektivně. (s. 44)
+
+Rozdílnost tětcho textů vychází i z odlišných hledisek
+a různých čtenářů. Petronius a Tacitus byli svázáni jejich
+kulturní tradicí a psali pro vyšší vrstvu. Marek psal pro
+všechny v tradici starozákonních textů, které jsou popsány
+výšše. (s. 45—47)
+
+Vlastně podle mě kdyby naše kořeny byli pouze antické a ne
+i židovsko-křesťanské, zřejmě bychom v najem realistickém
+pojetí světa byli velice pozadu.
 
 ## Poznámky
 
@@ -187,6 +251,10 @@ ale považováná za důvod historického pohybu, nýbrž často
 zasahuje jako strašná rána osudu nebo mimořádná shoda
 okolností (viz Oidipa). (s. 31)
 
+*[Anafora]* je opakování stejných slov na počátku veršů
+nebo slok.
+
+[anafora]: https://slovnik-cizich-slov.abz.cz/web.php/slovo/anafora
 [floskule]: https://slovnik-cizich-slov.abz.cz/web.php/slovo/floskule
 [mimesis]: http://moodle.fhs.cuni.cz/file.php/1/tmp/Auerbach_Mimesis.doc
 [odysseia]: {% post_url 2018-09-10-homer-odysseia %}
