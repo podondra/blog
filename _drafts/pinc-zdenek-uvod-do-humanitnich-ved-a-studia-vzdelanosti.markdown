@@ -57,3 +57,36 @@ ozdoba, řád, svět, Vesmír) a *a-tomos* (řec. nedělitelný).
 (od řec. *chainó*, zívat). Musíme se o něj starat, jinak by
 se z něj v dnešním významu slova chaos stal nepořádek.
 *A-tomos* je to nejmenší, co už nelze rozdělit.
+
+## Pátek 5. října 2018
+
+Věda (řec. *epistémé*) vznikla v starověkém Řecku, kde toto
+slovo znamenalo jisté vědění, poznání. Od té doby se význam
+toho pojmu měnil tak moc, až se zapomnělo, co znamená.
+
+Protiklad k *epistémé* je *doxa* (z řec. *dokein*, jevit se,
+zdát se). *Doxa* je řecké slovo pro mínění, to co se
+jedinečným způsobem ukazuje člověku individuálně. Lidé žijí
+z *doxa*, které by se měli snažit disciplinovat a převést na
+nahlédnutí, *epistémé*. Pokud někdo pokládá své *doxa* za
+společný svět, je v řeckém smyslu *idiotes* (řec.,
+soukromník), který se nedokáže podílet na společném světě.
+
+Podle Patočky nám řecký zázrak přináší dvě poučení. Zaprvé
+chceme založit svůj život na nahlédnutí, *epistémé*
+a zadruhé chápeme, že každému nahlédnutí předchází *doxa*.
+
+Stejně jako slovo věda změnilo význam i slova *názor*, které
+pochází z geometrického diskurzu a znamenalo jisté
+a společné vědění ve smyslu *epistémé* (například názor
+kružnice – množina všech bodů stejně vzdálených od středu).
+Dnes ho chápeme spíše v smyslu *doxa* (mít na něco *názor*
+znamená nerozumět tomu, co to má být, vydávat *doxa* za
+*epsitémé*).
+
+Michel Foucault ve své knize *Slova a věci* označil slovem
+*epistémé* způsob jak se v dané době vytváří vědění. To na
+čem se zakládá vědění, se tedy mění s epochou. *Epistémé*
+(řekněme vědeckost) stojí mimo vědu a určuje, co je vědecké
+a co není. Vědy se o tuto vědeckost opírají a nacházejí v ní
+jednostnost.
