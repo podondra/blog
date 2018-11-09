@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Auerbach, Erich: Mimesis"
-categories: konspekt
+categories: referát
 ---
 Zabývám se pouze prvními dvěma kapitolami.
 
@@ -10,16 +10,16 @@ Zabývám se pouze prvními dvěma kapitolami.
 Mimesis: Zobrazení skutečnosti v západoevropských
 literaturách. Německý originál je *Mimesis: Dargestellte
 Wirklichkeit in der abendländischen Literatur* (1946).
-Vydala Mladá fronta v roce 1998. Dostupné [online][mimesis].
+Vydala Mladá fronta v roce 1968. Dostupné [online][mimesis].
 
 ## Autor a doba
 
 Erich Auerbach (1892—1957) byl německo-židovský filolog
 a literární kritik. Narodil se v Berlíně a získal doktorát
-na universitě v Greifswaldu roku 1921. Pracoval jako
-knihovník a od roku 1929 učil filologii na univesitě
+na univerzitě v Greifswaldu roku 1921. Pracoval jako
+knihovník a od roku 1929 učil filologii na univezitě
 v Marburgu. Roku 1936 ho nacistická strana propustila.
-V letech 1936 až 1947 učil na Istanbulské universitě, kde
+V letech 1936 až 1947 učil na Istanbulské univerzitě, kde
 napsal *Mimesis*. V roce 1947 se přesunul Do USA
 (Pennsylvania State College, Princeton a Yale University).
 Roku 1956 byl jmenován profesorem. Umřel ve Wallingfordu,
@@ -30,7 +30,7 @@ Auerbach psal tyto dvě kapitoly během druhé světové války.
 ## Téma
 
 První dvě kapitoly se zabývají porovnáním způsobu
-zobrazování skutečnosti v řeckořímské a židovsko-křesťanské
+zobrazování skutečnosti v řecko-římské a židovsko-křesťanské
 literatuře.
 
 ## Klíčová slova
@@ -129,8 +129,8 @@ a Sára). (s. 25)
 
 V druhé kapitole, nazvané podle Trimalchionovi ženy
 Fortunaty, porovnává Auerbach Petroniovu *hostinu u bohatého
-propuštěnce Trimalchiona* z románu Satirikon a ukázku
-z Tacitových Letopisů s historií Petrova pádu podle Markova
+propuštěnce Trimalchiona* z románu *Satirikon* a ukázku
+z Tacitových *Letopisů* s historií Petrova pádu podle Markova
 podání.
 
 Na začátku je úryvek, ve kterém *odpovídá jeden z hostů
@@ -169,8 +169,8 @@ realismus nenahlíží věci na základě určité doby nebo místa,
 jakoby se sice individuum vyvíjelo, ale svět *setrvával
 v nehybnosti*. (s. 33—34)
 
-V souvislosti uvádí ukázku z antické historigrafie, a to
-z Tacitových Annálů, o začátku revolty legií v Germanii
+V souvislosti uvádí ukázku z antické historiografie, a to
+z Tacitových Annálů, o začátku revolty legií v Germánii
 po Augustově smrti (s. 35—36). Auerbach hned nachází
 rozdíly proti moderních historikům. Tacitus píše jako
 umělec, nepostupuje metodicky, analyticky ani objektivně.
@@ -183,11 +183,11 @@ pochopit. (s. 37)
 Dále Auerbach cituje Nordena: *musíme si uvědomit, že
 antické dějepisectví nikdy nedospělo k postižení obecných
 idejí určujících běh světa a dokonce se o to ani nesnažilo*
-a Rostovceva: *Dějepisci se o hopodářský život říše
+a Rostovceva: *Dějepisci se o hospodářský život říše
 nezajímali.* Tím se snaží říct, že antičtí historici
 neviděli dějinné síly, ale spíše morální hodnoty. Z toho
 také ukazuje, že nemohli vytvořit *syntetické dynamické
-pojmové struktury* (kapitalismus, resnesance, atp.), jichž
+pojmové struktury* (kapitalismus, renesance, atp.), jichž
 používáme dnes, protože to při tomto moralistickém nahlížení
 jsou možné jen *statické apriorní modely*. Například
 renesance je syntéza určitých znaků, které se zpočátku
@@ -213,8 +213,8 @@ o dějetvornou sílu (popisování účinku Ježíšova učení), která
 je vyjádřena skrze vystoupení velkého počtu libovolných
 osob, abychom tuto sílu mohli pocítit. (s. 43) Ale přesto
 se neblíží modernímu pojetí, jak Auerbach říká, evangelia
-chápou dějinné síly naprosto *nevědecky* a neobjektivně. (s.
-44)
+chápou dějinné síly naprosto *nevědecky* a *neobjektivně*.
+(s. 44)
 
 Rozdílnost těchto textů vychází i z odlišných hledisek
 a různých čtenářů. Petronius a Tacitus byli svázáni jejich
